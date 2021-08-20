@@ -9,7 +9,7 @@ while True:
     c = (a+b)
 
     if (d) == c :
-        print('Correct\n')
+        print('Correct😄\n')
 
     else:
         print('Incorrect😡\n')
